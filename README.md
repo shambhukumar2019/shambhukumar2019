@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @shambhukumar2019
-- 👀 I’m interested in embedded systems
+- 👀 I’m interested in embedded systems, RTOS, C Programming, Python Script
 - 🌱 I’m currently learning c programming, arm cortex-M architecture, operating system constructs and working on stm32f407vg disc1 board
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/shambhukumar67515/).
 - 😄 Pronouns: shambhu kumar
